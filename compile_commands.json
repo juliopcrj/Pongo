@@ -1,0 +1,17 @@
+[
+ {
+  "directory": "/home/jio/workspace/pongo",
+  "arguments": [
+   "/usr/bin/c++",
+   "-I/home/jio/workspace/pongo/SFML_INCLUDE_DIR",
+   "-isystem",
+   "/home/jio/.local/include/sfml/include",
+   "-std=gnu++14",
+   "-o",
+   "CMakeFiles/Pongo.dir/src/main.cpp.o",
+   "-c",
+   "/home/jio/workspace/pongo/src/main.cpp"
+  ],
+  "file": "/home/jio/workspace/pongo/src/main.cpp"
+ }
+]

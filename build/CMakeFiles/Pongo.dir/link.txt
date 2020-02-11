@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/Pongo.dir/src/main.cpp.o  -o Pongo  -L/home/jio/workspace/pongo/SFML_LIBRARY_DIR -Wl,-rpath,/home/jio/workspace/pongo/SFML_LIBRARY_DIR:/home/jio/.local/include/sfml/lib /home/jio/.local/include/sfml/lib/libsfml-graphics.so.2.5.1 /home/jio/.local/include/sfml/lib/libsfml-window.so.2.5.1 /home/jio/.local/include/sfml/lib/libsfml-system.so.2.5.1 

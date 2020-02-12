@@ -1,3 +1,0 @@
-/home/jio/workspace/pongo/build/CMakeFiles/rebuild_cache.dir
-/home/jio/workspace/pongo/build/CMakeFiles/Pongo.dir
-/home/jio/workspace/pongo/build/CMakeFiles/edit_cache.dir

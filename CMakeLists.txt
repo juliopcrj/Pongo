@@ -8,6 +8,8 @@ set(SFML_INCLUDE_DIR "/home/jio/.local/include/sfml/include")
 set(SFML_LIBRARY_DIR "/home/jio/.local/include/sfml/lib")
 set(SFML_DIR "/home/jio/.local/include/sfml/lib/cmake/SFML")
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS 1)
+
 link_directories(SFML_LIBRARY_DIR)
 include_directories(SFML_INCLUDE_DIR)
 
@@ -26,6 +28,8 @@ include_directories(include)
 
 set(SOURCES
 	src/main.cpp
+	src/ball.cpp
+	src/pad.cpp
 	)
 
 set(HEADERS
